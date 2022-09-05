@@ -3,6 +3,7 @@ public class ProverkaGit {
 
         System.out.println("Les");
         System.out.println("Vot");
+        System.out.println;
 
     }
 }
